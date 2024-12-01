@@ -6,7 +6,7 @@
 
 Landing page template design for hotels
 
-**URL**: 
+**URL**: https://royal-lusaka-hotel.pages.dev/
 
 ## Project Setup
 
